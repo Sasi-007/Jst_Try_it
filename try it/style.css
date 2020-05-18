@@ -1,0 +1,85 @@
+.wrapper {
+    text-align: center;
+    margin: 0px 180px;
+    color: lightgray;
+}
+
+.div-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 40px;
+}
+
+.sub1 {
+    background-color: grey;
+    width: 270px;
+    height: 220px;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.sub23{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.sub2{
+background-color: grey;
+width: 100px;
+height: 105px;
+margin-bottom: 10px;
+border-radius: 8px;
+}
+
+.sub3{
+background-color: grey;
+width: 100px;
+height: 105px;
+border-radius: 8px;
+}
+
+.sub4 {
+    background-color: grey;
+    padding: 0px 75px;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.sub567{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.sub56{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.sub5{
+background-color: grey;
+margin-right: 10px;
+padding: 53px 65px;
+border-radius: 8px;
+}
+
+.sub6{
+background-color: grey;
+padding: 53px 65px;
+border-radius: 8px;
+}
+
+.sub7{
+background-color: grey;
+padding: 0px 100px;
+border-radius: 8px;
+padding: 53px 70px;
+}
